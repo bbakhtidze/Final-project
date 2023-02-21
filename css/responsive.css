@@ -1,0 +1,279 @@
+@media (max-width:768px) {
+    .navigation {
+        display: none;
+    }
+    .burger-bar{
+        display:block;
+    }
+}
+
+
+@media (max-width:1024px) {
+     .title{
+        font-size: 80px;
+     }
+
+     .li-item{
+        font-size: 20px;
+     }
+
+     .li-item:hover{
+        font-size: 20px;
+     }
+
+     .main-block{
+      width: 100%;
+      justify-content: center;
+      flex-direction: column;
+     }
+
+     .right-block{
+        margin-top: 15px;
+        width: 100%;
+     }
+
+     .map{
+        /* margin: 0 auto; */
+        width: 48%;
+     }
+
+     .form-wraper{
+        width: 48%;
+        margin-left: 10px;
+     }
+
+     .footer-li{
+        font-size: 25px;
+     }
+
+     .ammo-box{
+        width: 250px;
+     }
+}
+
+@media (max-width:768px) {
+    .title{
+       display: none;
+    }
+
+    .li-item{
+       font-size: 20px;
+    }
+
+    .li-item:hover{
+       font-size: 20px;
+    }
+
+    .main-block{
+     width: 100%;
+     justify-content: center;
+     flex-direction: column;
+    }
+
+    .right-block{
+       margin-top: 15px;
+       width: 100%;
+    }
+
+    .map{
+       /* margin: 0 auto; */
+       width: 48%;
+    }
+
+    .form-wraper{
+       width: 48%;
+       margin-left: 10px;
+    }
+    
+    .footer-ul{
+        margin-top: 10px;
+        flex-direction: column;
+    }
+    .footer-li{
+       font-size: 22px;
+    }
+
+    .ammo-box{
+       width: 250px;
+    }
+
+    .form-element{
+        width: 200px;
+    }
+
+    .gun-item{
+        width: 200px;
+    }
+
+    .fa-brands{
+        font-size: 30px;
+    }
+}
+
+@media (max-width:480px) {
+    .title{
+       display: none;
+    }
+
+    .li-item{
+       font-size: 20px;
+    }
+
+    .li-item:hover{
+       font-size: 20px;
+    }
+
+    .main-block{
+     width: 100%;
+     justify-content: center;
+     flex-direction: column;
+    }
+
+    .right-block{
+       margin-top: 15px;
+       width: 100%;
+    }
+
+    .map{
+      /* margin: 0 auto; */
+      width: 100%;
+   }
+
+   .form-wraper{
+      width: 100%;
+      margin-left: 10px;
+   }
+   
+    
+    .footer-ul{
+        margin-top: 10px;
+        flex-direction: column;
+    }
+    .footer-li{
+       font-size: 22px;
+    }
+
+    .ammo-box{
+       width: 100%;
+    }
+
+    .form-element{
+        width: 200px;
+    }
+
+    .gun-item{
+        width: 200px;
+    }
+
+    .fa-brands{
+        font-size: 30px;
+         
+        
+    }
+
+    .footer-links-container{
+      flex-direction: column;
+      height: 120px;
+      
+    }
+}
+
+@media (max-width:320px) {
+   .title{
+      display: none;
+   }
+
+   .li-item{
+      font-size: 20px;
+   }
+
+   .li-item:hover{
+      font-size: 20px;
+   }
+
+   .main-block{
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+   }
+
+   .right-block{
+      margin-top: 15px;
+      width: 100%;
+   }
+
+   .map{
+      /* margin: 0 auto; */
+      width: 100%;
+   }
+
+   .form-wraper{
+      width: 100%;
+      margin-left: 10px;
+   }
+   
+   .footer-ul{
+       margin-top: 10px;
+       flex-direction: column;
+   }
+   .footer-li{
+      font-size: 22px;
+   }
+
+   .ammo-box{
+      width: 100%;
+   }
+
+   .form-element{
+       width: 200px;
+   }
+
+   .gun-item{
+       width: 100%;
+
+       
+
+   }
+   .gun-block{
+      display: flex;
+      padding: 0 0;
+      width:300px;
+      flex-direction: column;
+     margin: 0 0 ;
+      
+      
+
+}
+   .fa-brands{
+       font-size: 30px;
+
+        
+       
+   }
+
+   .footer-links-container{
+     flex-direction: column;
+     height: 120px;
+     
+   }
+
+   .contact-block{
+      display: flex;
+      flex-direction: column;
+   }
+
+   .fix-box{
+      display: none;
+     
+   }
+
+   .rifle-txt{
+      display: none;
+   }
+
+   .txt-div{
+      display: none;
+   }
+}
+
+
